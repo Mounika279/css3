@@ -1,4 +1,4 @@
-
+/* 
          .main{
             border: 1px solid black;
             border-radius:50%;
@@ -71,5 +71,13 @@
             margin-left: 8px;
             margin-top: 8px;
             background-color: red;
-        }  
-  
+        }   */
+  .c10{
+    border: 2px solid black;
+    padding:10px;
+    height: 40px;
+    width:100px;
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+  }
