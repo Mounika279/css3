@@ -1,10 +1,12 @@
-/* 
+
          .main{
             border: 1px solid black;
             border-radius:50%;
             height: 400px;
             width: 400px;
-            background-color: black;
+            background-color:black;
+            margin-left: 500px;
+            margin-top: 300px;
         }
 
         .c1{
@@ -59,8 +61,8 @@
             border-radius:50%;
             height: 100px;
             width: 100px;
-            margin-left: 12px;
-            margin-top: 12px;
+            margin-left: 20px;
+            margin-top: 25px;
             background-color: orange;
         }
         .c7{
@@ -68,16 +70,8 @@
             border-radius:50%;
             height: 50px;
             width: 50px;
-            margin-left: 8px;
-            margin-top: 8px;
+            margin-left: 25px;
+            margin-top: 25px;
             background-color: red;
-        }   */
-  .c10{
-    border: 2px solid black;
-    padding:10px;
-    height: 40px;
-    width:100px;
-    background-color: blueviolet;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
-  }
+        }   
+  
